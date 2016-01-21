@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+
+   <head>
+   
+     
+   </head>
+   <body background="\\hetassink.nl\UserData\MyDocuments\Leerlingen\heerink132856\INformatica\naamloos.png">
+   	  <script type="text/javascript">
+         <!--
+         function sayHello() {
+	var invoer = prompt("Wat wilt u eten?")
+    
+	var okey = prompt ("Geef uw eerste ingredient")
+	var ok = prompt ("Geef uw tweede ingredient")
+	var ugly =prompt ("Hoeveel minuten wilt u mixen")
+	
+	confirm( invoer+","+" weet je het zeker dat u dit wilt eten?")
+	confirm (okey+","+"weet u zeker dat dit het eerste ingredient is")
+	confirm (ok +","+"weet u zeker dat dit het tweede ingredient is")
+	
+	
+	
+	confirm ("Dus u maakt "+invoer +" met de ingredienten " + okey +" en "+ ok + ", dit mixt u voor "+ ugly + " minuten, eetsmakelijk!")
+	}
+	
+	
+	
+         			
+             
+            
+         //-->
+      </script>
+   <h1 style="color:#FFFFFF;font-size:80px"> Welkom bij ons kookboek </h1>
+      <input type="button" onclick="sayHello()" value="Say Hello" />
+   </body>
+
+   
+</html>
